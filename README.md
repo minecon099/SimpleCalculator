@@ -1,10 +1,12 @@
 # SimpleCalculator
 A simple Python Based Calculator that uses While and Elif functions
-What you can do:
+
+What you can do
   - Remake the code (Upgrade it or just add new functions)
   - Add Suggestions (Im kinda up for comments so leave one if you think I could do it better!)
   - Share source code (Share it with everyone you want!)
-What you can't do:
+
+What you can't do
   - Use it for bad purposes (I don't like editing codes for bad, that is not good!)
   - Bad or Mean Suggestions (Commentaries are for suggestions or code discussion, I don't like arguing with people)
   
